@@ -1,7 +1,8 @@
 # Discord Token Generator
 
-# Cloudfare Requests (cf_bm) [NOT FINISHED] [s Param]
+# Cloudfare Requests (cf_bm) [NOT FINISHED]
 I did this below 2 minutes so dont blame code, just it works
+##  [s Payload]
 ```py
 def generate():
     while True:
@@ -28,3 +29,5 @@ def generate():
 while True:
     print(generate())
 ```
+## [wp payload]
+Contribute

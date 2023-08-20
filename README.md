@@ -1,3 +1,4 @@
+# Zoombie Generator
 # Discord Token Generator
 
 ### Why
